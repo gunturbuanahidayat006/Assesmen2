@@ -50,6 +50,8 @@ class DaftarPaket {
     }
 }
 
+
+
 public class CobaAssesmen2 {
     public static void main(String[] args) {
         DaftarPaket daftarPaket = new DaftarPaket();
